@@ -1,2 +1,2 @@
 # Computational-Chemistry
-Computational Chemistry final project 2021
+Final Project for Computational Chemistry 550 at Rutgers University with Professor Lu Wang 2021.
